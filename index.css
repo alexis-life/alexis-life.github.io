@@ -1,0 +1,15 @@
+img {
+  width: 500px;
+  height: 500px;
+}
+
+body {
+  text-align: center;
+  font-family: "Quicksand", "Courier New";
+  background: linear-gradient(#FFFFFF, #000000);
+  background-attachment: fixed;
+}
+
+p, a{
+  color: white;
+}
